@@ -41,11 +41,16 @@ me.whoAmI();
 
 ### 🚀 Technologies & Tools
 
-<ul style="display: grid;grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));grid-auto-rows: min-content;grid-column-gap: 0.5rem;grid-row-gap: 0.375rem;grid-auto-flow: dense;flex-wrap: wrap;list-style: none;">
-    <li style="background-color: rgb(35, 47, 62); display: flex;flex-direction: column;justify-content: center;padding: 1rem;text-align: center;">
-        <a style="color: inherit;display: block;text-align: center;width: 100%;" href="" download="">
-            <img style="width: 2.5rem;" align="center" alt="Amazon Web Services" src="./icons/amazonaws.svg"> 
-            <h2 style="font-size: 0.75rem;font-weight: 400;line-height: 1rem;margin: 0;">Amazon AWS</h2>
-        </a>
-    </li>
-</ul>
+<img align="left" width="25px" alt="Amazon Web Services" src="./icons/amazonaws.svg">
+<img align="left" width="25px" alt="Docker" src="./icons/docker.svg">
+<img align="left" width="25px" alt=".NET" src="./icons/dot-net.svg">
+<img align="left" width="25px" alt="GitHub" src="./icons/github.svg">
+<img align="left" width="25px" alt="Git" src="./icons/git.svg">
+<img align="left" width="25px" alt="JavaScript" src="./icons/javascript.svg">
+<img align="left" width="25px" alt="Kubernetes" src="./icons/kubernetes.svg">
+<img align="left" width="25px" alt="Azure" src="./icons/microsoftazure.svg">
+<img align="left" width="25px" alt="Node.js" src="./icons/node-dot-js.svg">
+<img align="left" width="25px" alt="React.js" src="./icons/react.svg">
+<img align="left" width="25px" alt="Ubuntu" src="./icons/ubuntu.svg">
+<img align="left" width="25px" alt="Visual Studio Code" src="./icons/visualstudiocode.svg">
+<img align="left" width="25px" alt="Visual Studio" src="./icons/visualstudio.svg"> 
