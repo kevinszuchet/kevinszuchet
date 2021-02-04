@@ -2,15 +2,19 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinszuchet?color=%231DA1F2&label=Kevin%20Szuchet&logo=Twitter&style=for-the-badge)](https://twitter.com/kevinszuchet)
 
-**kevinszuchet/kevinszuchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+<br/>
+
+### 🤓 Nerd 💻 Software Engineer
+
+- 🔭 I’m currently working on [Producteca](https://producteca.com)
+- 🌱 I’m currently learning [Machine Learning]([http](https://www.kaggle.com/kevinszuchet)) and React Native ⚛️
+- 📫 How to reach me: kevinszuchet@gmail.com
+- 😄 Pronouns: 'he/him'
+
+### 🚀 Coding
