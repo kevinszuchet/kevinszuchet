@@ -1,20 +1,42 @@
-### Hi [Kevin Szuchet](https://linkedin.com/in/kevinszuchet) here 👋
+### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kevinszuchet?color=%231DA1F2&label=Kevin%20Szuchet&logo=Twitter&style=for-the-badge)](https://twitter.com/kevinszuchet)
+```js
+import _ from "lodash";
 
-<img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+class SoftwareEngineer {
+    constructor(props) {
+        this.name = "Kevin Szuchet";
+        this.birthday = "1997-08-21";
+        this.company = "Producteca";
+        this.role = "Software Engineer";
+        this.skills = [
+            "OOP and Functional Programming",
+            "Design and Architectural patterns"
+            "SQL and NoSQL Databases",
+            "Software Engineering",
+            "Full Stack Engineering"
+            // TODO: Go deep with Machine Learning and Computer Vision
+        ];
+    }
+
+    whoAmI() {
+        const { name, birthday, company, role } = this;
+        const age = moment().diff(moment(birthday), 'years');
+
+        console.log(`
+            Hello there, thanks for dropping by!
+
+            My name is ${name}, I'm ${age} years old and I'm working as a ${role} in ${company}.
+
+            I consider my self a nerd that love keep learning everytime.
+        `);
+    }
+}
+
+const me = SoftwareEngineer();
+me.whoAmI();
+```
 
 <br/>
 
----
-
-<br/>
-
-### 🤓 Nerd 💻 Software Engineer
-
-- 🔭 I’m currently working on [Producteca](https://producteca.com)
-- 🌱 I’m currently learning [Machine Learning]([http](https://www.kaggle.com/kevinszuchet)) and React Native ⚛️
-- 📫 How to reach me: kevinszuchet@gmail.com
-- 😄 Pronouns: 'he/him'
-
-### 🚀 Coding
+### 🚀 Technologies & Tools
