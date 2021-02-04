@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi [Kevin Szuchet](https://linkedin.com/in/kevinszuchet) here 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinszuchet?color=%231DA1F2&label=Kevin%20Szuchet&logo=Twitter&style=for-the-badge)](https://twitter.com/kevinszuchet)
 
 **kevinszuchet/kevinszuchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
