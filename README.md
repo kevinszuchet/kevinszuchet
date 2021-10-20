@@ -7,15 +7,16 @@ class SoftwareEngineer {
     constructor(props) {
         this.name = "Kevin Szuchet";
         this.birthday = "1997-08-21";
+        this.city = "Be'er Sheva"
+        this.country = "Israel"
         this.company = "Producteca";
         this.role = "Software Engineer";
         this.skills = [
             "OOP and Functional Programming",
             "Design and Architectural patterns"
             "SQL and NoSQL Databases",
-            "Software Engineering",
-            "Full Stack Engineering"
-            // TODO: Go deep with Machine Learning and Computer Vision
+            "Full Stack Development",
+            "Software Engineering"
         ];
     }
 
