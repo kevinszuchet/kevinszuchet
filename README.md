@@ -12,9 +12,7 @@ import _ from "lodash";
 import moment from "moment";
 
 class PersonBuilder {
-    constructor(name, birthday, pronouns) {
-        _.assign(this, { name, birthday, pronouns })
-    }
+    constructor(name, birthday, pronouns) {...}
 
     livingIn(country) {...}
 
@@ -25,6 +23,12 @@ class PersonBuilder {
     withADegree(degree, university) {...}
 
     withSkills(...skills) {...}
+
+    build() {...}
+}
+
+class Person {
+    ...
 
     whoAmI() {...}
 }
@@ -39,7 +43,8 @@ const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
         "Design and Architectural Patterns",
         "SQL and NoSQL",
         "CI/CD"
-    );
+    )
+    .build();
 
 me.whoAmI();
 ```
