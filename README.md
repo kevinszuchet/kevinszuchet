@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kevinszuchet)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinszuchet)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kevinszuchet/)
+
 Thanks for dropping by!
 
 
@@ -40,7 +44,7 @@ const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
 me.whoAmI();
 ```
 
-My name is Kevin Szuchet. I'm 24 years old living in Israel.
+My name is Kevin Szuchet. I'm 24 years old and I'm living in Israel.
 
 Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA.
 
@@ -53,8 +57,6 @@ Also, I'm doing a training on how to become a Data Scientist in [ITC](https://ww
 - Dimensionality Reduction and Anomaly Detection.
 - Computer Vision / NLP.
 
-<br>
-
 ### Personal stuff
 
 - 🚲 Digital Nomad.
@@ -62,8 +64,6 @@ Also, I'm doing a training on how to become a Data Scientist in [ITC](https://ww
 - 🤓 [Notion](https://www.notion.so/) lover.
 - 🌱 Passionate about sports, nature, and food.
 - ☕ In a relationship with coffee as you can see in my [Instagrm Stories](https://www.instagram.com/kevinszuchet/).
-
-<br>
 
 ---
 
