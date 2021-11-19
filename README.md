@@ -2,56 +2,59 @@
 
 ```js
 import _ from "lodash";
+import moment from "moment";
 
-class SoftwareEngineer {
-    constructor(props) {
-        this.name = "Kevin Szuchet";
-        this.birthday = "1997-08-21";
-        this.city = "Be'er Sheva"
-        this.country = "Israel"
-        this.company = "Producteca";
-        this.role = "Software Engineer";
-        this.skills = [
-            "OOP and Functional Programming",
-            "Design and Architectural patterns"
-            "SQL and NoSQL Databases",
-            "Full Stack Development",
-            "Software Engineering"
-        ];
+class PersonBuilder {
+    constructor(name, birthday, pronouns) {
+        _.assign(this, { name, birthday, pronouns })
     }
 
-    whoAmI() {
-        const { name, birthday, company, role } = this;
-        const age = moment().diff(moment(birthday), 'years');
+    livingIn(country) {...}
 
-        console.log(`
-            Hello there, thanks for dropping by!
+    workingAs(company) {...}
 
-            My name is ${name}, I'm ${age} years old and I'm working as a ${role} in ${company}.
+    in(role) {...}
 
-            I consider my self a nerd that love keep learning constantly.
-        `);
-    }
+    withADegree(degree) {...}
+
+    withSkills(...skills) {...}
+
+    withKnownTechnologies(...technologies) {...}
+
+    withUsedTools(...tools) {...}
+
+    whoAmI() {...}
 }
 
-const me = SoftwareEngineer();
+const me = new Person("Kevin Szuchet", "1997-08-21", "he/him/his")
+    .livingIn("Israel")
+    .workingAs("Full Stack Engineer")
+    .in("Producteca")
+    .withADegree("B.Sc. Information Systems Engineer")
+    .withSkills(
+        "OOP And Functional Programming",
+        "Design and Architectural Patterns",
+        "SQL and NoSQL",
+        "CI/CD"
+    )
+    .withKnownTechnologies("Node.js", "React.js", "Python", "C#", ".NET")
+    .withUsedTools("Git", "Linux", "Docker", "Kubernetes");
+
 me.whoAmI();
 ```
 
+    Hello there, thanks for dropping by!
+
+    My name is Kevin Szuchet.
+    I'm 24 years old who is living in Israel.
+    Nowadays, I'm working as a Full Stack Engineer in Producteca.
+
 <br/>
 
-### 🚀 Technologies & Tools
+### Some Stats
+<div>
+    <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kevinszuchet&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+    <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kevinszuchet&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak Stats">
+</div>
 
-<img align="left" width="25px" alt="Amazon Web Services" src="./icons/amazonaws.svg">
-<img align="left" width="25px" alt="Docker" src="./icons/docker.svg">
-<img align="left" width="25px" alt=".NET" src="./icons/dot-net.svg">
-<img align="left" width="25px" alt="GitHub" src="./icons/github.svg">
-<img align="left" width="25px" alt="Git" src="./icons/git.svg">
-<img align="left" width="25px" alt="JavaScript" src="./icons/javascript.svg">
-<img align="left" width="25px" alt="Kubernetes" src="./icons/kubernetes.svg">
-<img align="left" width="25px" alt="Azure" src="./icons/microsoftazure.svg">
-<img align="left" width="25px" alt="Node.js" src="./icons/node-dot-js.svg">
-<img align="left" width="25px" alt="React.js" src="./icons/react.svg">
-<img align="left" width="25px" alt="Ubuntu" src="./icons/ubuntu.svg">
-<img align="left" width="25px" alt="Visual Studio Code" src="./icons/visualstudiocode.svg">
-<img align="left" width="25px" alt="Visual Studio" src="./icons/visualstudio.svg"> 
+### 🚀 Technologies & Tools
