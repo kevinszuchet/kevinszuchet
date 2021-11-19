@@ -46,7 +46,7 @@ Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA
 
 Nowadays, I'm working as a Full Stack Developer in [Producteca](producteca.com) using amazing technologies such as __Node.js__, __React__, __MongoDB__, C#, .NET, __Docker__, and __Kubernetes__.
 
-Also, I'm doing a training on how to become a Data Scientist in [ITC](https://www.itc.tech/) and I-m learning a lot of stuff.
+Also, I'm doing a training on how to become a Data Scientist in [ITC](https://www.itc.tech/) and I'm learning a lot of stuff.
 - Web Scraping with __Python__ and Data Visualizations.
 - EDA, Data Preprocessing, Feature Engineering, and Feature Extraction.
 - Machine Learning Modeling, Evaluation, and Optimization.
@@ -57,9 +57,11 @@ Also, I'm doing a training on how to become a Data Scientist in [ITC](https://ww
 
 ### Personal stuff
 
-- 📚 I read a lot. Checkout my GoodReads [profile](goodreads.com/kevinszuchet).
-- 🤓 I organize my entire life through [Notion](https://www.notion.so/).
-- ⚽ I love sports and food 🌱.
+- 🚲 Digital Nomad.
+- 📚 Constant reader. Checkout my GoodReads [profile](goodreads.com/kevinszuchet).
+- 🤓 [Notion](https://www.notion.so/) lover.
+- 🌱 Passionate about sports, nature, and food.
+- ☕ In a relationship with coffee as you can see in my [Instagrm Stories](https://www.instagram.com/kevinszuchet/).
 
 <br>
 
