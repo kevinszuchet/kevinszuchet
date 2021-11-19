@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Thanks for dropping by!
+
+
 ```js
 import _ from "lodash";
 import moment from "moment";
@@ -15,46 +18,57 @@ class PersonBuilder {
 
     in(role) {...}
 
-    withADegree(degree) {...}
+    withADegree(degree, university) {...}
 
     withSkills(...skills) {...}
-
-    withKnownTechnologies(...technologies) {...}
-
-    withUsedTools(...tools) {...}
 
     whoAmI() {...}
 }
 
-const me = new Person("Kevin Szuchet", "1997-08-21", "he/him/his")
+const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
     .livingIn("Israel")
     .workingAs("Full Stack Engineer")
     .in("Producteca")
-    .withADegree("B.Sc. Information Systems Engineer")
+    .withADegree("B.Sc. in Information Systems Engineer", "UTN FRBA")
     .withSkills(
         "OOP And Functional Programming",
         "Design and Architectural Patterns",
         "SQL and NoSQL",
         "CI/CD"
-    )
-    .withKnownTechnologies("Node.js", "React.js", "Python", "C#", ".NET")
-    .withUsedTools("Git", "Linux", "Docker", "Kubernetes");
+    );
 
 me.whoAmI();
 ```
 
-    Hello there, thanks for dropping by!
+My name is Kevin Szuchet. I'm 24 years old living in Israel.
 
-    My name is Kevin Szuchet.
-    I'm 24 years old who is living in Israel.
-    Nowadays, I'm working as a Full Stack Engineer in Producteca.
+Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA.
 
-<br/>
+Nowadays, I'm working as a Full Stack Developer in [Producteca](producteca.com) using amazing technologies such as __Node.js__, __React__, __MongoDB__, C#, .NET, __Docker__, and __Kubernetes__.
 
-### Some Stats
-<div>
+Also, I'm doing a training on how to become a Data Scientist in [ITC](https://www.itc.tech/) and I-m learning a lot of stuff.
+- Web Scraping with __Python__ and Data Visualizations.
+- EDA, Data Preprocessing, Feature Engineering, and Feature Extraction.
+- Machine Learning Modeling, Evaluation, and Optimization.
+- Dimensionality Reduction and Anomaly Detection.
+- Computer Vision / NLP.
+
+<br>
+
+### Personal stuff
+
+- 📚 I read a lot. Checkout my GoodReads [profile](goodreads.com/kevinszuchet).
+- 🤓 I organize my entire life through [Notion](https://www.notion.so/).
+- ⚽ I love sports and food 🌱.
+
+<br>
+
+---
+
+<br>
+
+
+<div align="center">
     <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=kevinszuchet&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="GitHub Stats">
     <img width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=kevinszuchet&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak Stats">
 </div>
-
-### 🚀 Technologies & Tools
