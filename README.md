@@ -1,11 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kevinszuchet)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinszuchet)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kevinszuchet/)
+[![Linkedin Badge](https://img.shields.io/badge/-kevinszuchet-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinszuchet/)](https://www.linkedin.com/in/kevinszuchet/)
+[![Twitter Badge](https://img.shields.io/badge/-@kevinszuchet-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kevinszuchet)](https://twitter.com/kevinszuchet)
+[![Instagram Badge](https://img.shields.io/badge/-@kevinszuchet-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kevinszuchet/)](https://instagram.com/kevinszuchet)
+[![Gmail Badge](https://img.shields.io/badge/-kevinszuchet-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kevinszuchet@gmail.com)](mailto:kevinszuchet@gmail.com)
 
-Thanks for dropping by!
+Thanks for dropping by and welcome to my profile!
 
+### About me
 
 ```js
 import _ from "lodash";
@@ -49,26 +51,24 @@ const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
 me.whoAmI();
 ```
 
-My name is Kevin Szuchet. I'm 24 years old and I'm living in Israel.
-
-Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA.
+My name is Kevin Szuchet. I'm 24 years old and I'm living in Israel. Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA.
 
 Nowadays, I'm working as a Full Stack Developer in [Producteca](producteca.com) using amazing technologies such as __Node.js__, __React__, __MongoDB__, C#, .NET, __Docker__, and __Kubernetes__.
 
-Also, I'm doing a training on how to become a Data Scientist in [ITC](https://www.itc.tech/) and I'm learning a lot of stuff.
-- Web Scraping with __Python__ and Data Visualizations.
+Also, I'm Data Science Enthusiast studying in [ITC](https://www.itc.tech/) and learning a lot of new interesting things.
+- Web Scraping with Python and Data Visualizations.
 - EDA, Data Preprocessing, Feature Engineering, and Feature Extraction.
 - Machine Learning Modeling, Evaluation, and Optimization.
 - Dimensionality Reduction and Anomaly Detection.
 - Computer Vision / NLP.
 
-### Personal stuff
+### More about me
 
-- 🚲 Digital Nomad.
-- 📚 Constant reader. Checkout my GoodReads [profile](goodreads.com/kevinszuchet).
+- 📚 Books [fan](goodreads.com/kevinszuchet).
 - 🤓 [Notion](https://www.notion.so/) lover.
-- 🌱 Passionate about sports, nature, and food.
 - ☕ In a relationship with coffee as you can see in my [Instagrm Stories](https://www.instagram.com/kevinszuchet/).
+- 🚲 Digital Nomad.
+- 🌱 Passionate about sports, nature, and food.
 
 ---
 
