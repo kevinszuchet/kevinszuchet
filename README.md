@@ -36,9 +36,9 @@ class Person {
 }
 
 const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
-    .livingIn("Israel")
-    .workingAs("Full Stack Engineer")
-    .in("Producteca")
+    .livingIn("🌎")
+    .workingAs("Software Engineer")
+    .in("Targecy")
     .withADegree("B.Sc. in Information Systems Engineer", "UTN FRBA")
     .withSkills(
         "OOP And Functional Programming",
@@ -51,7 +51,8 @@ const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
 me.whoAmI();
 ```
 
-My name is Kevin Szuchet. I'm 24 years old and I'm living in Israel. Recently, I've finished a B. Sc. in Information Systems Engineer in the UTN FRBA.
+<!---
+My name is Kevin Szuchet. I'm 26 years old and I've been living around Europe for my last 3 years. I have a B. Sc. in Information Systems Engineer from the UTN FRBA.
 
 Nowadays, I'm working as a Full Stack Developer in [Producteca](producteca.com) using amazing technologies such as __Node.js__, __React__, __MongoDB__, C#, .NET, __Docker__, and __Kubernetes__.
 
@@ -61,6 +62,7 @@ Also, I'm Data Science Enthusiast studying in [ITC](https://www.itc.tech/) and l
 - Machine Learning Modeling, Evaluation, and Optimization.
 - Dimensionality Reduction and Anomaly Detection.
 - Computer Vision / NLP.
+-->
 
 ### More about me
 
