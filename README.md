@@ -38,7 +38,7 @@ class Person {
 const me = new PersonBuilder("Kevin Szuchet", "1997-08-21", "he/him/his")
     .livingIn("🌎")
     .workingAs("Software Engineer")
-    .in("Targecy")
+    .in("Decentraland")
     .withADegree("B.Sc. in Information Systems Engineer", "UTN FRBA")
     .withSkills(
         "OOP And Functional Programming",
